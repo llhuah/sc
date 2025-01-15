@@ -1,0 +1,7 @@
+train: F:\zjh\data\ELDDS1400c5\images\train
+val: F:\zjh\data\ELDDS1400c5\images\val
+
+
+# number of classes
+nc: 5
+names: [ '1 ShortCircuitString', '2 ShortCircuitCell -LowPowerCell-', '3 Crack', '4 MicroCrack', '5 DarkSpot']
